@@ -1,0 +1,17 @@
+CSE Colorsort Robot
+
+This is a project within the Computer Science & Engineering
+Club at CSUSB. The initial goal of this project is to program
+a pre-assembled robot to match object colors by placing colored
+objects into the proper bin.
+
+Individuals of our group may meet up independently or with other
+group members to work on the robot.
+
+CSE Club office hours are found on the club website: cse-club.com
+
+Members who wish to contribute to the code may fork this
+repository and submit a pull request after commiting their code.
+
+I will place files in here with empty function definitions in hopes
+that somebody will fill in the function implementations. 
